@@ -4,7 +4,7 @@
 
 Mohammad O. Alhawarat, Ayman J. Alnsour, Mohammed A. F. Al-Husainy, Khalil M. Abdelnaby
 
-*Entropy*, 2026. https://doi.org/10.3390/e1010000
+*Entropy*, 2026. https://doi.org/TBI
 
 ---
 
@@ -127,9 +127,9 @@ If you use this code, please cite:
              Al-Husainy, Mohammed A. F. and Abdelnaby, Khalil M.},
   journal = {Entropy},
   year    = {2026},
-  volume  = {1},
-  pages   = {0},
-  doi     = {10.3390/e1010000}
+  volume  = {TBI},
+  pages   = {TBI},
+  doi     = {TBI}
 }
 ```
 
@@ -143,5 +143,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-Mohammad O. Alhawarat — m.hawarat@ammanu.edu.jo  
-Faculty of Information Technology, Al-Ahliyya Amman University, Amman 19328, Jordan
+Mohammad O. Alhawarat — m.hawarat@ammanu.edu.jo
+Department of Data Science and AI, 
+Faculty of Information Technology, 
+Al-Ahliyya Amman University, Amman 19328, Jordan
